@@ -26,4 +26,21 @@ This project demonstrates basic authentication methods in Node.js and Express, i
 - `package.json`: Project dependencies
 
 ## License
+
+## Results
+
+Below are screenshots from the `public/results` folder:
+
+### Add Authorization
+![Add Authorization](public/results/add-authorization.png)
+
+### Show Cookie 1
+![Show Cookie 1](public/results/show-cookie-1.png)
+
+### Show Cookie 2
+![Show Cookie 2](public/results/show-cookie-2.png)
+
+### Show Cookie in MongoDB
+![Show Cookie in MongoDB](public/results/show-cookie-in-mongodb.png)
+
 MIT
